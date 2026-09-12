@@ -5,9 +5,24 @@
       "name": "原神",
       "tag": "Genshin Impact",
       "desc": "开放世界冒险RPG · 至冬篇进行中",
-      "currentVersion": "7.1",
-      "cover": "封面图URL",
+      "cover": "",
       "folder": "yuanshen"
+    },
+    {
+      "id": "starrail",
+      "name": "崩坏：星穹铁道",
+      "tag": "Honkai: Star Rail",
+      "desc": "银河冒险策略RPG · 二相乐园篇",
+      "cover": "",
+      "folder": "starRail"
+    },
+    {
+      "id": "zzz",
+      "name": "绝区零",
+      "tag": "Zenless Zone Zero",
+      "desc": "都市动作冒险RPG · 新艾利都",
+      "cover": "",
+      "folder": "zzz"
     }
   ]
 }
