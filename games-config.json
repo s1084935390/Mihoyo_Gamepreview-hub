@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "id": "genshin",
+      "name": "原神",
+      "tag": "Genshin Impact",
+      "desc": "开放世界冒险RPG · 至冬篇进行中",
+      "currentVersion": "7.1",
+      "cover": "封面图URL",
+      "folder": "yuanshen"
+    }
+  ]
+}
