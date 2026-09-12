@@ -11,7 +11,7 @@
     "url": "git+https://github.com/s1084935390/Mihoyo_Gamepreview-hub.git"
   },
   "author": "sxy",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
