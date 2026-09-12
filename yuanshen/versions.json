@@ -1,16 +1,18 @@
 [
   {
-    "version": "5.5.0",
-    "title": "",
-    "publishDate": "2026-09-12",
-    "brief": "",
-    "file": "5.5.0.json"
-  },
-  {
     "version": "7.1",
     "title": "往冥府的安魂歌",
     "publishDate": "2026-09-12",
-    "brief": "至冬主线推进 · 星扩散体系实装",
-    "file": "7.1.json"
+    "brief": "至冬主线推进 · 星扩散体系实装 · 周年庆福利",
+    "file": "7.1.json",
+    "thumb": ""
+  },
+  {
+    "version": "7.0",
+    "title": "如果在冬夜，一个旅人",
+    "publishDate": "2026-07-31",
+    "brief": "至冬国首个大版本 · 新区域开放",
+    "file": "7.0.json",
+    "thumb": ""
   }
 ]
